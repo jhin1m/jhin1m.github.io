@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jhin1m.github.io</id>
+    <title>Jhin1m&#39;sBlog</title>
+    <subtitle></subtitle>
+    <icon>https://jhin1m.github.io/images/favicon.ico</icon>
+    <link href="https://jhin1m.github.io" />
+    <author>
+      <name>Jhin1m</name>
+    </author>
+    <updated>2025-06-26T02:20:06.681Z</updated>
+    <category term="jhin1m" />
+    <category term=" jhin1mblog" />
+</feed>
