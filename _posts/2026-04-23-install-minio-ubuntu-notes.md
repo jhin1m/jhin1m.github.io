@@ -1,6 +1,6 @@
 ---
 title: Cài MinIO trên Ubuntu — vài note sau khi tự vật lộn
-date: 2026-04-23
+date: 2026-04-23 03:00:00 +0700
 categories: [DevOps, Storage, Ubuntu]
 tags: [minio, s3, ubuntu, nginx, cloudflare, storage, self-hosted]
 ---
